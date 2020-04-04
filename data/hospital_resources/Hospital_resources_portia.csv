@@ -1,0 +1,68 @@
+,KT,Inst,PersA,PersP,BettenStatA,pBettenBelStatA,ICU_beds,Ventilators
+0,BS,UniversitÌ_tsspital Basel,913.5,1595.22,633.0,92.46380575,38.0,28.0
+1,GE,Les HÌ«pitaux Universitaires de GenÌ¬ve HUG,1829.32,4498.96,1054.282192,85.2892184,63.0,47.0
+2,VD,CHUV Centre Hospitalier Universitaire Vaudois,1653.73,3400.37,929.0,82.58843653,56.0,41.0
+3,ZH,UniversitÌ_tsspital ZÌ_rich,1221.75,2574.21,953.8849315,78.68069438,57.0,42.0
+4,BE,Insel Gruppe AG (universitÌ_r),1355.66,2739.25,876.2986301000001,83.32900838,53.0,39.0
+5,AG,Kantonsspital Aarau AG,628.81,1467.23,506.65205480000003,84.77191123,30.0,22.0
+6,AG,Kantonsspital Baden AG,321.27,783.63,352.0,86.34028643,21.0,16.0
+7,AG,Hirslanden Klinik Aarau,13.09,346.52,151.5123288,87.77440237,9.0,7.0
+8,VD,HÌ«pital Riviera-Chablais Vaud-Valais,235.22,820.55,329.0,79.2147229,20.0,15.0
+9,VD,Etablissements Hospitaliers du Nord Vaudois (eHnv),153.08,663.2,226.9178082,70.91699366,14.0,10.0
+10,VD,EHC Ensemble hospitalier de la CÌ«te,117.37,448.79,158.6054795,81.94192534,10.0,7.0
+11,SH,SpitÌ_ler Schaffhausen,145.49,465.92,158.1068493,83.22272089,9.0,7.0
+12,ZH,See-Spital,88.83,326.59,213.090411,65.84381187,13.0,10.0
+13,SO,Solothurner SpitÌ_ler AG,457.63,1230.63,460.0,87.98987493,28.0,21.0
+14,ZH,GZO Spital Wetzikon,109.1,317.64,160.0,75.34075342,10.0,7.0
+15,FR,HFR - HÌ«pital fribourgeois,488.25,1100.43,410.02191780000004,89.78671371,25.0,18.0
+16,BL,Kantonsspital Baselland,394.1,1075.72,467.08767120000005,78.78430613,28.0,21.0
+17,LU,Luzerner Kantonsspital,908.9,2338.01,741.4684932,79.24001242,44.0,33.0
+18,LU,Hirslanden Klinik St. Anna AG,69.4,443.44,196.0,85.97847358,12.0,9.0
+19,TI,EOC Ente ospedaliero cantonale,690.79,1754.0,871.0,80.7939229,52.0,38.0
+20,TG,Spital Thurgau AG KantonsspitÌ_ler Frauenfeld & MÌ_nsterlingen,381.77,1007.94,505.0,86.32741082,30.0,22.0
+21,ZH,Klinik Hirslanden AG,107.45,817.53,331.2493151,91.34865102,20.0,15.0
+22,GR,Kantonsspital GraubÌ_nden,308.97,675.1,309.0,85.16203396,19.0,14.0
+23,SG,Spitalregion Rheintal Werdenberg Sarganserland,201.6,507.29,294.15616439999997,72.30806486,18.0,13.0
+24,BE,Lindenhof AG,76.08,886.46,374.33424660000003,86.53097371,22.0,16.0
+25,BE,Insel Gruppe AG (nicht-universitÌ_r),204.03,600.25,266.2821918,72.32619633,16.0,12.0
+26,BE,Hirslanden Bern AG,86.78,585.85,310.7671233,75.31340915,19.0,14.0
+27,NE,HÌ«pital NeuchÌ¢telois HNE,270.68,808.34,293.6794521,81.23478212,18.0,13.0
+28,BE,Spitalzentrum Biel AG,175.56,470.18,231.0,91.92551740000002,14.0,10.0
+29,BE,Regionalspital Emmental AG,140.19,378.7,147.4931507,87.59357295,9.0,7.0
+30,BE,SpitÌ_ler Frutigen Meiringen Interlaken AG,116.11,290.28,124.0,99.31727795,7.0,5.0
+31,ZH,Stadtspital Waid,160.99,493.1,255.0,71.04915391,15.0,11.0
+32,ZH,Kantonsspital Winterthur,466.62,1278.09,444.6986301,83.2843545,27.0,20.0
+33,VS,Spital Wallis - Spitalzentrum Oberwallis (SZO),140.41,405.34,182.2493151,85.4316682,11.0,8.0
+34,ZH,Spital Zollikerberg,124.61,384.93,174.0,78.46165958,10.0,7.0
+35,BS,St. Claraspital,135.58,353.19,229.0,78.74379374,14.0,10.0
+36,ZH,Spital Uster,141.49,463.49,208.0,78.96469968,12.0,9.0
+37,ZH,Spital Limmattal,163.19,379.69,188.5863014,79.6089142,11.0,8.0
+38,ZH,Stadtspital Triemli,416.7,975.6,390.0,89.65367053,23.0,17.0
+39,VS,HÌ«pital du Valais - Centre hospitalier du centre du Valais (CHCVs),371.02,1089.01,435.0,85.72382302,26.0,19.0
+40,BE,Spital STS AG,215.92,612.52,261.0,82.26316066,16.0,12.0
+41,SG,Kantonsspital St. Gallen,812.41,1746.25,783.0,75.64513025,47.0,35.0
+42,ZG,Zuger Kantonsspital AG,132.77,355.55,166.45479450000002,76.40562249,10.0,7.0
+43,ZH,Spital BÌ_lach AG,133.87,408.56,162.0136986,84.37304473,10.0,7.0
+44,BE,SRO Spital Region Oberaargau AG,124.45,322.3,153.41917809999998,77.67420265,9.0,7.0
+46,GE,HÌ«pital de la Tour,48.5,339.4,133.0,69.88979298,8.0,6.0
+49,JU,HÌ«pital du Jura,107.27,616.94,145.0,83.95465281,9.0,7.0
+50,SZ,Spital Schwyz,53.36,247.95,93.0,86.18942407,6.0,4.0
+53,VD,Groupement Hospitalier de l'Ouest LÌ©manique (GHOL) SA,102.95,287.62,126.0,74.80756686,8.0,6.0
+54,AG,Kreisspital fÌ_r das Freiamt,89.52,257.01,112.0,79.44471624,7.0,5.0
+56,ZH,Klinik Im Park,26.0,266.97,128.0,64.84160959,8.0,6.0
+58,ZH,Spital MÌ_nnedorf AG,94.9,336.96,125.4191781,86.39958058,8.0,6.0
+59,SZ,Spital Lachen,84.37,201.34,123.0,56.03742065,7.0,5.0
+60,TI,Clinica Luganese Moncucco SA Sede Moncucco,51.7,234.58,105.0,100.1356817,6.0,4.0
+63,GR,Spital Oberengadin,45.34,86.77,35.0,88.10176125,2.0,1.0
+64,AG,Spital Zofingen AG,69.89,246.29,100.0,73.08219178,6.0,4.0
+67,VD,HÌ«pital Intercantonal de la Broye (HIB),87.32,270.89,105.0,87.49641226,6.0,4.0
+74,UR,Kantonsspital Uri,46.4,209.46,61.0,86.36874018,4.0,3.0
+77,TI,Cardiocentro Ticino (CCT),57.78,134.47,30.0,105.5251142,2.0,1.0
+79,NW,Kantonsspital Nidwalden,66.77,152.38,70.03013699,85.98255154,4.0,3.0
+81,SG,Hirslanden Klinik Stephanshorn,34.24,169.23,98.08219178,92.55586592,6.0,4.0
+82,GL,Kantonsspital Glarus,74.68,174.38,94.14520548,76.5503594,6.0,4.0
+230,GE,Clinique de Carouge,14.78,40.46,15.0,28.56621005,1.0,1.0
+257,ZH,UniversitÌ_ts-Kinderspital ZÌ_rich das Spital der Eleonorenstiftung,302.29,683.98,167.12876709999998,75.64997869,10.0,7.0
+258,SG,Ostschweizer Kinderspital,85.25,272.69,74.0,81.72898926,4.0,3.0
+259,BS,UniversitÌ_ts-Kinderspital beider Basel (UKBB),157.55,411.82,118.5013699,72.87355790000001,7.0,5.0
+273,LU,Schweizer Paraplegiker-Zentrum Nottwil AG,74.21,364.56,53.0,81.54044973,3.0,2.0
