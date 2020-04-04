@@ -1,68 +1,68 @@
-ID,KT,Inst,Adr,PersA,PersP,BettenStatA,pBettenBelStatA,ICU_beds,Ventilators,Latitude,Longitude
-0,BS,UniversitÌ_tsspital Basel,Hebelstrasse 32,913.5,1595.22,633,92.46380575,38,28,47.561196,7.581541
-1,GE,Les HÌ«pitaux Universitaires de GenÌ¬ve HUG,Rue Gabrielleå_Perretå_Gentil 4,1829.32,4498.96,1054.282192,85.2892184,63,47,46.193711,6.148856
-2,VD,CHUV Centre Hospitalier Universitaire Vaudois,Rue du Bugnon 21,1653.73,3400.37,929,82.58843653,56,41,46.524749,6.639659
-3,ZH,UniversitÌ_tsspital ZÌ_rich,RÌ_mistrasse 100,1221.75,2574.21,953.8849315,78.68069438,57,42,47.376736,8.549199
-4,BE,Insel Gruppe AG (universitÌ_r),Freiburgstrasse 18,1355.66,2739.25,876.2986301,83.32900838,53,39,46.947455,7.424801
-5,AG,Kantonsspital Aarau AG,Tellstrasse 15,628.81,1467.23,506.6520548,84.77191123,30,22,47.389185,8.059995
-6,AG,Kantonsspital Baden AG,Im Ergel,321.27,783.63,352,86.34028643,21,16,47.454286,8.278407
-7,AG,Hirslanden Klinik Aarau,SchÌ_nisweg 1,13.09,346.52,151.5123288,87.77440237,9,7,47.391652,8.042692
-8,VD,HÌ«pital Riviera-Chablais Vaud-Valais,Avenue de Belmont 25,235.22,820.55,329,79.2147229,20,15,46.440108,6.908222
-9,VD,Etablissements Hospitaliers du Nord Vaudois (eHnv),Rue d'Entremonts 11,153.08,663.2,226.9178082,70.91699366,14,10,46.77032,6.64755
-10,VD,EHC Ensemble hospitalier de la CÌ«te,Chemin du CrÌ»t 2,117.37,448.79,158.6054795,81.94192534,10,7,46.522437,6.499426
-11,SH,SpitÌ_ler Schaffhausen,Geissbergstrasse 81,145.49,465.92,158.1068493,83.22272089,9,7,47.711995,8.638826
-12,ZH,See-Spital,Asylstrasse 19,88.83,326.59,213.090411,65.84381187,13,10,47.269765,8.588345
-13,SO,Solothurner SpitÌ_ler AG,SchÌ¦ngrÌ_nstrasse 36a,457.63,1230.63,460,87.98987493,28,21,47.200104,7.539125
-14,ZH,GZO Spital Wetzikon,Spitalstrasse 66,109.1,317.64,160,75.34075342,10,7,47.322205,8.802781
-15,FR,HFR - HÌ«pital fribourgeois,Case postale,488.25,1100.43,410.0219178,89.78671371,25,18,46.801389,7.137283
-16,BL,Kantonsspital Baselland,MÌ_hlemattstrasse 26,394.1,1075.72,467.0876712,78.78430613,28,21,47.488122,7.731507
-17,LU,Luzerner Kantonsspital,Spitalstrasse,908.9,2338.01,741.4684932,79.24001242,44,33,47.058078,8.298791
-18,LU,Hirslanden Klinik St. Anna AG,St. Annaå_Strasse 32,69.4,443.44,196,85.97847358,12,9,47.05812,8.326092
-19,TI,EOC Ente ospedaliero cantonale,Viale Officina 3,690.79,1754,871,80.7939229,52,38,46.197616,9.026881
-20,TG,Spital Thurgau AG KantonsspitÌ_ler Frauenfeld & MÌ_nsterlingen,Waldeggstrasse 8a,381.77,1007.94,505,86.32741082,30,22,47.549937,8.911494
-21,ZH,Klinik Hirslanden AG,Witellikerstrasse 40,107.45,817.53,331.2493151,91.34865102,20,15,47.351972,8.576158
-22,GR,Kantonsspital GraubÌ_nden,Loestrasse 170,308.97,675.1,309,85.16203396,19,14,46.86411,9.539952
-23,SG,Spitalregion Rheintal Werdenberg Sarganserland,Alte Landstrasse 106,201.6,507.29,294.1561644,72.30806486,18,13,47.397628,9.579355
-24,BE,Lindenhof AG,Bremgartenstrasse 117,76.08,886.46,374.3342466,86.53097371,22,16,46.958811,7.427403
-25,BE,Insel Gruppe AG (nicht-universitÌ_r),Freiburgstrasse 18,204.03,600.25,266.2821918,72.32619633,16,12,46.947645,7.426611
-26,BE,Hirslanden Bern AG,SchÌ_nzlihalde 11,86.78,585.85,310.7671233,75.31340915,19,14,46.95279,7.448237
-27,NE,HÌ«pital NeuchÌ¢telois HNE,MaladiÌ¬re 45,270.68,808.34,293.6794521,81.23478212,18,13,46.996591,6.942991
-28,BE,Spitalzentrum Biel AG,Vogelsang 84,175.56,470.18,231,91.9255174,14,10,47.147814,7.244622
-29,BE,Regionalspital Emmental AG,Oberburgstrasse 54,140.19,378.7,147.4931507,87.59357295,9,7,47.049215,7.620942
-30,BE,SpitÌ_ler Frutigen Meiringen Interlaken AG,Weissenaustrasse 27,116.11,290.28,124,99.31727795,7,5,46.680833,7.842919
-31,ZH,Stadtspital Waid,TiÌ¬chestrasse 99,160.99,493.1,255,71.04915391,15,11,47.399167,8.520622
-32,ZH,Kantonsspital Winterthur,Brauerstrasse 15,466.62,1278.09,444.6986301,83.2843545,27,20,47.507967,8.727949
-33,VS,Spital Wallis - Spitalzentrum Oberwallis (SZO),Pflanzettastrasse 8,140.41,405.34,182.2493151,85.4316682,11,8,46.288114,7.884178
-34,ZH,Spital Zollikerberg,Trichtenhauserstrasse 20,124.61,384.93,174,78.46165958,10,7,47.34917,8.598519
-35,BS,St. Claraspital,Kleinriehenstrasse 30,135.58,353.19,229,78.74379374,14,10,47.566617,7.614162
-36,ZH,Spital Uster,Brunnenstrasse 42,141.49,463.49,208,78.96469968,12,9,47.353765,8.724082
-37,ZH,Spital Limmattal,Urdorferstrasse 100,163.19,379.69,188.5863014,79.6089142,11,8,47.394227,8.431632
-38,ZH,Stadtspital Triemli,Birmensdorferstrasse 497,416.7,975.6,390,89.65367053,23,17,47.366863,8.497572
-39,VS,HÌ«pital du Valais - Centre hospitalier du centre du Valais (CHCVs),Avenue du Grandå_Champsec 80,371.02,1089.01,435,85.72382302,26,19,46.2351,7.387328
-40,BE,Spital STS AG,Krankenhausstrasse 12,215.92,612.52,261,82.26316066,16,12,46.761733,7.632281
-41,SG,Kantonsspital St. Gallen,Rorschacher Strasse 95,812.41,1746.25,783,75.64513025,47,35,47.43119,9.388303
-42,ZG,Zuger Kantonsspital AG,Landhausstrasse 11,132.77,355.55,166.4547945,76.40562249,10,7,47.194648,8.518031
-43,ZH,Spital BÌ_lach AG,Spitalstrasse 24,133.87,408.56,162.0136986,84.37304473,10,7,47.522029,8.5329
-44,BE,SRO Spital Region Oberaargau AG,St. Urbanstrasse 67,124.45,322.3,153.4191781,77.67420265,9,7,47.216521,7.793825
-46,GE,HÌ«pital de la Tour,Avenue Jacobå_Daniel Maillard 3,48.5,339.4,133,69.88979298,8,6,46.228776,6.0674
-49,JU,HÌ«pital du Jura,Chemin de l'HÌ«pital 9a,107.27,616.94,145,83.95465281,9,7,47.419685,7.05821
-50,SZ,Spital Schwyz,Waldeggstrasse 10,53.36,247.95,93,86.18942407,6,4,47.016475,8.658699
-53,VD,Groupement Hospitalier de l'Ouest LÌ©manique (GHOL) SA,Chemin Monastier 10,102.95,287.62,126,74.80756686,8,6,46.383439,6.227493
-54,AG,Kreisspital fÌ_r das Freiamt,Spitalstrasse 144,89.52,257.01,112,79.44471624,7,5,47.277588,8.330606
-56,ZH,Klinik Im Park,Seestrasse 220,26,266.97,128,64.84160959,8,6,47.35256,8.531581
-58,ZH,Spital MÌ_nnedorf AG,Asylstrasse 10,94.9,336.96,125.4191781,86.39958058,8,6,47.251154,8.696631
-59,SZ,Spital Lachen,Oberdorfstrasse 41,84.37,201.34,123,56.03742065,7,5,47.189221,8.858947
-60,TI,Clinica Luganese Moncucco SA Sede Moncucco,Via Moncucco 10,51.7,234.58,105,100.1356817,6,4,46.005434,8.94011
-63,GR,Spital Oberengadin,Via Nouva 3,45.34,86.77,35,88.10176125,2,1,46.540309,9.878888
-64,AG,Spital Zofingen AG,MÌ_hlethalstrasse 27,69.89,246.29,100,73.08219178,6,4,47.296098,7.947124
-67,VD,HÌ«pital Intercantonal de la Broye (HIB),Avenue de la Colline 3,87.32,270.89,105,87.49641226,6,4,46.818815,6.946231
-74,UR,Kantonsspital Uri,Spitalstrasse 1,46.4,209.46,61,86.36874018,4,3,46.883284,8.637429
-77,TI,Cardiocentro Ticino (CCT),Via Tesserete 48,57.78,134.47,30,105.5251142,2,1,46.018508,8.952941
-79,NW,Kantonsspital Nidwalden,Ennetmooserstrasse 19,66.77,152.38,70.03013699,85.98255154,4,3,46.959937,8.357545
-81,SG,Hirslanden Klinik Stephanshorn,Brauerstrasse 95,34.24,169.23,98.08219178,92.55586592,6,4,47.445458,9.411887
-82,GL,Kantonsspital Glarus,Burgstrasse 99,74.68,174.38,94.14520548,76.5503594,6,4,47.046166,9.06511
-230,GE,Clinique de Carouge,Avenue Cardinalå_Mermillod 1,14.78,40.46,15,28.56621005,1,1,46.186931,6.142615
-257,ZH,UniversitÌ_ts-Kinderspital ZÌ_rich das Spital der Eleonorenstiftung,Steinwiesstrasse 75,302.29,683.98,167.1287671,75.64997869,10,7,47.372031,8.557767
-258,SG,Ostschweizer Kinderspital,Claudiusstrasse 6,85.25,272.69,74,81.72898926,4,3,47.431105,9.387304
-259,BS,UniversitÌ_ts-Kinderspital beider Basel (UKBB),Spitalstrasse 33,157.55,411.82,118.5013699,72.8735579,7,5,47.563624,7.58183
-273,LU,Schweizer Paraplegiker-Zentrum Nottwil AG,Guido A. ZÌ_ch Strasse 1,74.21,364.56,53,81.54044973,3,2,47.141716,8.130885
+ID,KT,Inst,Adr,PersA,PersP,BettenStatA,pBettenBelStatA,ICU_beds,Ventilators,Latitude,Longitude,
+0,BS,UniversitÌ_tsspital Basel,Hebelstrasse 32,913.5,1595.22,633,92.46380575,38,28,47.561196,7.581541,
+1,GE,Les HÌ«pitaux Universitaires de GenÌ¬ve HUG,Rue Gabrielleå_Perretå_Gentil 4,1829.32,4498.96,1054.282192,85.2892184,63,47,46.193711,6.148856,
+2,VD,CHUV Centre Hospitalier Universitaire Vaudois,Rue du Bugnon 21,1653.73,3400.37,929,82.58843653,56,41,46.524749,6.639659,
+3,ZH,UniversitÌ_tsspital ZÌ_rich,RÌ_mistrasse 100,1221.75,2574.21,953.8849315,78.68069438,57,42,47.376736,8.549199,
+4,BE,Insel Gruppe AG (universitÌ_r),Freiburgstrasse 18,1355.66,2739.25,876.2986301,83.32900838,53,39,46.947455,7.424801,
+5,AG,Kantonsspital Aarau AG,Tellstrasse 15,628.81,1467.23,506.6520548,84.77191123,30,22,47.389185,8.059995,
+6,AG,Kantonsspital Baden AG,Im Ergel,321.27,783.63,352,86.34028643,21,16,47.454286,8.278407,
+7,AG,Hirslanden Klinik Aarau,SchÌ_nisweg 1,13.09,346.52,151.5123288,87.77440237,9,7,47.391652,8.042692,
+8,VD,HÌ«pital Riviera-Chablais Vaud-Valais,Avenue de Belmont 25,235.22,820.55,329,79.2147229,20,15,46.440108,6.908222,
+9,VD,Etablissements Hospitaliers du Nord Vaudois (eHnv),Rue d'Entremonts 11,153.08,663.2,226.9178082,70.91699366,14,10,46.77032,6.64755,
+10,VD,EHC Ensemble hospitalier de la CÌ«te,Chemin du CrÌ»t 2,117.37,448.79,158.6054795,81.94192534,10,7,46.522437,6.499426,
+11,SH,SpitÌ_ler Schaffhausen,Geissbergstrasse 81,145.49,465.92,158.1068493,83.22272089,9,7,47.711995,8.638826,
+12,ZH,See-Spital,Asylstrasse 19,88.83,326.59,213.090411,65.84381187,13,10,47.263268,8.589378,
+13,SO,Solothurner SpitÌ_ler AG,SchÌ¦ngrÌ_nstrasse 36a,457.63,1230.63,460,87.98987493,28,21,47.200104,7.539125,
+14,ZH,GZO Spital Wetzikon,Spitalstrasse 66,109.1,317.64,160,75.34075342,10,7,47.322205,8.802781,
+15,FR,HFR - HÌ«pital fribourgeois,Case postale,488.25,1100.43,410.0219178,89.78671371,25,18,46.801389,7.137283,
+16,BL,Kantonsspital Baselland,MÌ_hlemattstrasse 26,394.1,1075.72,467.0876712,78.78430613,28,21,47.488122,7.731507,
+17,LU,Luzerner Kantonsspital,Spitalstrasse,908.9,2338.01,741.4684932,79.24001242,44,33,47.058078,8.298791,
+18,LU,Hirslanden Klinik St. Anna AG,St. Annaå_Strasse 32,69.4,443.44,196,85.97847358,12,9,47.05812,8.326092,
+19,TI,EOC Ente ospedaliero cantonale,Viale Officina 3,690.79,1754,871,80.7939229,52,38,46.197616,9.026881,
+20,TG,Spital Thurgau AG KantonsspitÌ_ler Frauenfeld & MÌ_nsterlingen,Waldeggstrasse 8a,381.77,1007.94,505,86.32741082,30,22,47.549937,8.911494,
+21,ZH,Klinik Hirslanden AG,Witellikerstrasse 40,107.45,817.53,331.2493151,91.34865102,20,15,47.351972,8.576158,
+22,GR,Kantonsspital GraubÌ_nden,Loestrasse 170,308.97,675.1,309,85.16203396,19,14,46.86411,9.539952,
+23,SG,Spitalregion Rheintal Werdenberg Sarganserland,Alte Landstrasse 106,201.6,507.29,294.1561644,72.30806486,18,13,47.397628,9.579355,
+24,BE,Lindenhof AG,Bremgartenstrasse 117,76.08,886.46,374.3342466,86.53097371,22,16,46.958811,7.427403,
+25,BE,Insel Gruppe AG (nicht-universitÌ_r),Freiburgstrasse 18,204.03,600.25,266.2821918,72.32619633,16,12,46.947645,7.426611,
+26,BE,Hirslanden Bern AG,SchÌ_nzlihalde 11,86.78,585.85,310.7671233,75.31340915,19,14,46.95279,7.448237,
+27,NE,HÌ«pital NeuchÌ¢telois HNE,MaladiÌ¬re 45,270.68,808.34,293.6794521,81.23478212,18,13,46.996591,6.942991,
+28,BE,Spitalzentrum Biel AG,Vogelsang 84,175.56,470.18,231,91.9255174,14,10,47.147814,7.244622,
+29,BE,Regionalspital Emmental AG,Oberburgstrasse 54,140.19,378.7,147.4931507,87.59357295,9,7,47.049215,7.620942,
+30,BE,SpitÌ_ler Frutigen Meiringen Interlaken AG,Weissenaustrasse 27,116.11,290.28,124,99.31727795,7,5,46.680833,7.842919,
+31,ZH,Stadtspital Waid,TiÌ¬chestrasse 99,160.99,493.1,255,71.04915391,15,11,47.399167,8.520622,
+32,ZH,Kantonsspital Winterthur,Brauerstrasse 15,466.62,1278.09,444.6986301,83.2843545,27,20,47.507967,8.727949,
+33,VS,Spital Wallis - Spitalzentrum Oberwallis (SZO),Pflanzettastrasse 8,140.41,405.34,182.2493151,85.4316682,11,8,46.288114,7.884178,
+34,ZH,Spital Zollikerberg,Trichtenhauserstrasse 20,124.61,384.93,174,78.46165958,10,7,47.34917,8.598519,
+35,BS,St. Claraspital,Kleinriehenstrasse 30,135.58,353.19,229,78.74379374,14,10,47.566617,7.614162,
+36,ZH,Spital Uster,Brunnenstrasse 42,141.49,463.49,208,78.96469968,12,9,47.353765,8.724082,
+37,ZH,Spital Limmattal,Urdorferstrasse 100,163.19,379.69,188.5863014,79.6089142,11,8,47.394227,8.431632,heli
+38,ZH,Stadtspital Triemli,Birmensdorferstrasse 497,416.7,975.6,390,89.65367053,23,17,47.366863,8.497572,
+39,VS,HÌ«pital du Valais - Centre hospitalier du centre du Valais (CHCVs),Avenue du Grandå_Champsec 80,371.02,1089.01,435,85.72382302,26,19,46.2351,7.387328,
+40,BE,Spital STS AG,Krankenhausstrasse 12,215.92,612.52,261,82.26316066,16,12,46.761733,7.632281,
+41,SG,Kantonsspital St. Gallen,Rorschacher Strasse 95,812.41,1746.25,783,75.64513025,47,35,47.43119,9.388303,
+42,ZG,Zuger Kantonsspital AG,Landhausstrasse 11,132.77,355.55,166.4547945,76.40562249,10,7,47.194648,8.518031,
+43,ZH,Spital BÌ_lach AG,Spitalstrasse 24,133.87,408.56,162.0136986,84.37304473,10,7,47.522029,8.5329,
+44,BE,SRO Spital Region Oberaargau AG,St. Urbanstrasse 67,124.45,322.3,153.4191781,77.67420265,9,7,47.216521,7.793825,
+46,GE,HÌ«pital de la Tour,Avenue Jacobå_Daniel Maillard 3,48.5,339.4,133,69.88979298,8,6,46.228776,6.0674,
+49,JU,HÌ«pital du Jura,Chemin de l'HÌ«pital 9a,107.27,616.94,145,83.95465281,9,7,47.419685,7.05821,
+50,SZ,Spital Schwyz,Waldeggstrasse 10,53.36,247.95,93,86.18942407,6,4,47.016475,8.658699,
+53,VD,Groupement Hospitalier de l'Ouest LÌ©manique (GHOL) SA,Chemin Monastier 10,102.95,287.62,126,74.80756686,8,6,46.383439,6.227493,
+54,AG,Kreisspital fÌ_r das Freiamt,Spitalstrasse 144,89.52,257.01,112,79.44471624,7,5,47.277588,8.330606,
+56,ZH,Klinik Im Park,Seestrasse 220,26,266.97,128,64.84160959,8,6,47.35256,8.531581,
+58,ZH,Spital MÌ_nnedorf AG,Asylstrasse 10,94.9,336.96,125.4191781,86.39958058,8,6,47.251154,8.696631,
+59,SZ,Spital Lachen,Oberdorfstrasse 41,84.37,201.34,123,56.03742065,7,5,47.189221,8.858947,
+60,TI,Clinica Luganese Moncucco SA Sede Moncucco,Via Moncucco 10,51.7,234.58,105,100.1356817,6,4,46.005434,8.94011,
+63,GR,Spital Oberengadin,Via Nouva 3,45.34,86.77,35,88.10176125,2,1,46.540309,9.878888,
+64,AG,Spital Zofingen AG,MÌ_hlethalstrasse 27,69.89,246.29,100,73.08219178,6,4,47.296098,7.947124,
+67,VD,HÌ«pital Intercantonal de la Broye (HIB),Avenue de la Colline 3,87.32,270.89,105,87.49641226,6,4,46.818815,6.946231,
+74,UR,Kantonsspital Uri,Spitalstrasse 1,46.4,209.46,61,86.36874018,4,3,46.883284,8.637429,
+77,TI,Cardiocentro Ticino (CCT),Via Tesserete 48,57.78,134.47,30,105.5251142,2,1,46.018508,8.952941,heli
+79,NW,Kantonsspital Nidwalden,Ennetmooserstrasse 19,66.77,152.38,70.03013699,85.98255154,4,3,46.959937,8.357545,
+81,SG,Hirslanden Klinik Stephanshorn,Brauerstrasse 95,34.24,169.23,98.08219178,92.55586592,6,4,47.445458,9.411887,
+82,GL,Kantonsspital Glarus,Burgstrasse 99,74.68,174.38,94.14520548,76.5503594,6,4,47.046166,9.06511,
+230,GE,Clinique de Carouge,Avenue Cardinalå_Mermillod 1,14.78,40.46,15,28.56621005,1,1,46.186931,6.142615,
+257,ZH,UniversitÌ_ts-Kinderspital ZÌ_rich das Spital der Eleonorenstiftung,Steinwiesstrasse 75,302.29,683.98,167.1287671,75.64997869,10,7,47.372031,8.557767,
+258,SG,Ostschweizer Kinderspital,Claudiusstrasse 6,85.25,272.69,74,81.72898926,4,3,47.431105,9.387304,
+259,BS,UniversitÌ_ts-Kinderspital beider Basel (UKBB),Spitalstrasse 33,157.55,411.82,118.5013699,72.8735579,7,5,47.563624,7.58183,
+273,LU,Schweizer Paraplegiker-Zentrum Nottwil AG,Guido A. ZÌ_ch Strasse 1,74.21,364.56,53,81.54044973,3,2,47.141716,8.130885,
