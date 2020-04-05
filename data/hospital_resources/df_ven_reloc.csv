@@ -1,69 +1,69 @@
 ,orig_lat,orig_lon,dest_lat,dest_lon,orig_hosp,dest_hosp,num_ven_tansp
-0,47.561196,7.5815410000000005,47.389185,8.059994999999999,UniversitÃ_tsspital Basel,Kantonsspital Aarau AG,14
-1,47.561196,7.5815410000000005,46.197616,9.026881,UniversitÃ_tsspital Basel,EOC Ente ospedaliero cantonale,14
-2,46.524749,6.639659,46.193711,6.148855999999999,CHUV Centre Hospitalier Universitaire Vaudois,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,20
-3,46.524749,6.639659,46.2351,7.387328,CHUV Centre Hospitalier Universitaire Vaudois,HÃÂ«pital du Valais - Centre hospitalier du centre du Valais (CHCVs),20
-4,47.376736,8.549199,46.193711,6.148855999999999,UniversitÃ_tsspital ZÃ_rich,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,21
-5,47.376736,8.549199,46.197616,9.026881,UniversitÃ_tsspital ZÃ_rich,EOC Ente ospedaliero cantonale,21
-6,46.947455,7.4248009999999995,46.193711,6.148855999999999,Insel Gruppe AG (universitÃ_r),Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,19
-7,46.947455,7.4248009999999995,46.197616,9.026881,Insel Gruppe AG (universitÃ_r),EOC Ente ospedaliero cantonale,19
-8,47.389185,8.059994999999999,46.197616,9.026881,Kantonsspital Aarau AG,EOC Ente ospedaliero cantonale,11
-9,47.454285999999996,8.278407000000001,47.394227,8.431632,Kantonsspital Baden AG,Spital Limmattal,5
-10,47.391652,8.042692,47.389185,8.059994999999999,Hirslanden Klinik Aarau,Kantonsspital Aarau AG,3
-11,46.440108,6.908222,46.193711,6.148855999999999,HÃÂ«pital Riviera-Chablais Vaud-Valais,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,7
-12,46.440108,6.908222,46.228776,6.0674,HÃÂ«pital Riviera-Chablais Vaud-Valais,HÃÂ«pital de la Tour,7
-13,46.77032,6.64755,46.193711,6.148855999999999,Etablissements Hospitaliers du Nord Vaudois (eHnv),Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,5
-14,46.77032,6.64755,46.228776,6.0674,Etablissements Hospitaliers du Nord Vaudois (eHnv),HÃÂ«pital de la Tour,5
-15,46.522437,6.499426000000001,46.193711,6.148855999999999,EHC Ensemble hospitalier de la CÃÂ«te,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,3
-16,46.522437,6.499426000000001,46.186931,6.142615,EHC Ensemble hospitalier de la CÃÂ«te,Clinique de Carouge,2
-17,47.711995,8.638826,47.399167,8.520622,SpitÃ_ler Schaffhausen,Stadtspital Waid,3
-18,47.711995,8.638826,47.507967,8.727949,SpitÃ_ler Schaffhausen,Kantonsspital Winterthur,3
-19,47.263268,8.589378,47.376736,8.549199,See-Spital,UniversitÃ_tsspital ZÃ_rich,5
-20,47.263268,8.589378,47.366863,8.497572,See-Spital,Stadtspital Triemli,5
-21,47.200103999999996,7.539125,46.947455,7.4248009999999995,Solothurner SpitÃ_ler AG,Insel Gruppe AG (universitÃ_r),10
-22,47.200103999999996,7.539125,46.996590999999995,6.942991,Solothurner SpitÃ_ler AG,HÃÂ«pital NeuchÃÂ¢telois HNE,10
-23,47.322205,8.802781,47.351971999999996,8.576158,GZO Spital Wetzikon,Klinik Hirslanden AG,3
-24,46.801389,7.137283,46.193711,6.148855999999999,HFR - HÃÂ«pital fribourgeois,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,9
-25,46.801389,7.137283,46.2351,7.387328,HFR - HÃÂ«pital fribourgeois,HÃÂ«pital du Valais - Centre hospitalier du centre du Valais (CHCVs),9
-26,47.488122,7.731507000000001,47.454285999999996,8.278407000000001,Kantonsspital Baselland,Kantonsspital Baden AG,10
-27,47.488122,7.731507000000001,46.197616,9.026881,Kantonsspital Baselland,EOC Ente ospedaliero cantonale,10
-28,47.058078,8.298791,46.193711,6.148855999999999,Luzerner Kantonsspital,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,16
-29,47.058078,8.298791,46.197616,9.026881,Luzerner Kantonsspital,EOC Ente ospedaliero cantonale,16
-30,47.05812,8.326092,47.263268,8.589378,Hirslanden Klinik St. Anna AG,See-Spital,4
-31,47.05812,8.326092,46.197616,9.026881,Hirslanden Klinik St. Anna AG,EOC Ente ospedaliero cantonale,4
-32,47.549937,8.911494,47.376736,8.549199,Spital Thurgau AG KantonsspitÃ_ler Frauenfeld & MÃ_nsterlingen,UniversitÃ_tsspital ZÃ_rich,11
-33,47.549937,8.911494,46.197616,9.026881,Spital Thurgau AG KantonsspitÃ_ler Frauenfeld & MÃ_nsterlingen,EOC Ente ospedaliero cantonale,11
-34,47.351971999999996,8.576158,47.376736,8.549199,Klinik Hirslanden AG,UniversitÃ_tsspital ZÃ_rich,4
-35,46.86411,9.539952,46.197616,9.026881,Kantonsspital GraubÃ_nden,EOC Ente ospedaliero cantonale,7
-36,46.86411,9.539952,46.018508000000004,8.952941000000001,Kantonsspital GraubÃ_nden,Cardiocentro Ticino (CCT),5
-37,47.397628000000005,9.579355,46.197616,9.026881,Spitalregion Rheintal Werdenberg Sarganserland,EOC Ente ospedaliero cantonale,6
-38,47.397628000000005,9.579355,47.507967,8.727949,Spitalregion Rheintal Werdenberg Sarganserland,Kantonsspital Winterthur,6
-39,46.958811,7.427403,46.947645,7.426611,Lindenhof AG,Insel Gruppe AG (nicht-universitÃ_r),2
-40,46.958811,7.427403,46.288114,7.8841779999999995,Lindenhof AG,Spital Wallis - Spitalzentrum Oberwallis (SZO),8
-41,46.947645,7.426611,46.947455,7.4248009999999995,Insel Gruppe AG (nicht-universitÃ_r),Insel Gruppe AG (universitÃ_r),5
-42,46.95279,7.448237,46.947455,7.4248009999999995,Hirslanden Bern AG,Insel Gruppe AG (universitÃ_r),5
-43,47.147814000000004,7.244622,46.996590999999995,6.942991,Spitalzentrum Biel AG,HÃÂ«pital NeuchÃÂ¢telois HNE,4
-44,47.049215000000004,7.620941999999999,46.947455,7.4248009999999995,Regionalspital Emmental AG,Insel Gruppe AG (universitÃ_r),3
-45,47.049215000000004,7.620941999999999,46.958811,7.427403,Regionalspital Emmental AG,Lindenhof AG,3
-46,46.680833,7.842919,46.761733,7.632281,SpitÃ_ler Frutigen Meiringen Interlaken AG,Spital STS AG,2
-47,47.399167,8.520622,47.376736,8.549199,Stadtspital Waid,UniversitÃ_tsspital ZÃ_rich,2
-48,47.507967,8.727949,47.376736,8.549199,Kantonsspital Winterthur,UniversitÃ_tsspital ZÃ_rich,8
-49,47.34917,8.598519,47.351971999999996,8.576158,Spital Zollikerberg,Klinik Hirslanden AG,1
-50,47.566617,7.614161999999999,47.389185,8.059994999999999,St. Claraspital,Kantonsspital Aarau AG,5
-51,47.566617,7.614161999999999,47.391652,8.042692,St. Claraspital,Hirslanden Klinik Aarau,5
-52,47.394227,8.431632,47.366863,8.497572,Spital Limmattal,Stadtspital Triemli,4
-53,47.366863,8.497572,47.376736,8.549199,Stadtspital Triemli,UniversitÃ_tsspital ZÃ_rich,8
-54,46.761733,7.632281,46.288114,7.8841779999999995,Spital STS AG,Spital Wallis - Spitalzentrum Oberwallis (SZO),5
-55,47.43119,9.388303,46.197616,9.026881,Kantonsspital St. Gallen,EOC Ente ospedaliero cantonale,17
-56,47.43119,9.388303,46.005434,8.94011,Kantonsspital St. Gallen,Clinica Luganese Moncucco SA Sede Moncucco,17
-57,47.194648,8.518031,47.376736,8.549199,Zuger Kantonsspital AG,UniversitÃ_tsspital ZÃ_rich,3
-58,47.194648,8.518031,47.263268,8.589378,Zuger Kantonsspital AG,See-Spital,3
-59,47.194648,8.518031,47.277588,8.330606,Zuger Kantonsspital AG,Kreisspital fÃ_r das Freiamt,1
-60,47.216521,7.793825,47.049215000000004,7.620941999999999,SRO Spital Region Oberaargau AG,Regionalspital Emmental AG,2
-61,47.216521,7.793825,47.296098,7.9471240000000005,SRO Spital Region Oberaargau AG,Spital Zofingen AG,2
-62,46.228776,6.0674,46.193711,6.148855999999999,HÃÂ«pital de la Tour,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,3
-63,46.383439,6.227493,46.193711,6.148855999999999,Groupement Hospitalier de l'Ouest LÃÂ©manique (GHOL) SA,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,3
-64,46.383439,6.227493,46.228776,6.0674,Groupement Hospitalier de l'Ouest LÃÂ©manique (GHOL) SA,HÃÂ«pital de la Tour,3
-65,47.189221,8.858947,47.263268,8.589378,Spital Lachen,See-Spital,2
-66,47.189221,8.858947,47.322205,8.802781,Spital Lachen,GZO Spital Wetzikon,2
-67,47.372031,8.557767,47.376736,8.549199,UniversitÃ_ts-Kinderspital ZÃ_rich das Spital der Eleonorenstiftung,UniversitÃ_tsspital ZÃ_rich,1
+0,47.561196,7.5815410000000005,47.389185,8.059994999999999,UniversitÃ_tsspital Basel,Kantonsspital Aarau AG,14.0
+1,47.561196,7.5815410000000005,46.197616,9.026881,UniversitÃ_tsspital Basel,EOC Ente ospedaliero cantonale,14.0
+2,46.524749,6.639659,46.193711,6.148855999999999,CHUV Centre Hospitalier Universitaire Vaudois,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,20.0
+3,46.524749,6.639659,46.2351,7.387328,CHUV Centre Hospitalier Universitaire Vaudois,HÃÂ«pital du Valais - Centre hospitalier du centre du Valais (CHCVs),20.0
+4,47.376736,8.549199,46.193711,6.148855999999999,UniversitÃ_tsspital ZÃ_rich,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,21.0
+5,47.376736,8.549199,46.197616,9.026881,UniversitÃ_tsspital ZÃ_rich,EOC Ente ospedaliero cantonale,21.0
+6,46.947455,7.4248009999999995,46.193711,6.148855999999999,Insel Gruppe AG (universitÃ_r),Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,19.0
+7,46.947455,7.4248009999999995,46.197616,9.026881,Insel Gruppe AG (universitÃ_r),EOC Ente ospedaliero cantonale,19.0
+8,47.389185,8.059994999999999,46.197616,9.026881,Kantonsspital Aarau AG,EOC Ente ospedaliero cantonale,11.0
+9,47.454285999999996,8.278407000000001,47.394227,8.431632,Kantonsspital Baden AG,Spital Limmattal,5.0
+10,47.391652,8.042692,47.389185,8.059994999999999,Hirslanden Klinik Aarau,Kantonsspital Aarau AG,3.0
+11,46.440108,6.908222,46.193711,6.148855999999999,HÃÂ«pital Riviera-Chablais Vaud-Valais,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,7.0
+12,46.440108,6.908222,46.228776,6.0674,HÃÂ«pital Riviera-Chablais Vaud-Valais,HÃÂ«pital de la Tour,7.0
+13,46.77032,6.64755,46.193711,6.148855999999999,Etablissements Hospitaliers du Nord Vaudois (eHnv),Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,5.0
+14,46.77032,6.64755,46.228776,6.0674,Etablissements Hospitaliers du Nord Vaudois (eHnv),HÃÂ«pital de la Tour,5.0
+15,46.522437,6.499426000000001,46.193711,6.148855999999999,EHC Ensemble hospitalier de la CÃÂ«te,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,3.0
+16,46.522437,6.499426000000001,46.186931,6.142615,EHC Ensemble hospitalier de la CÃÂ«te,Clinique de Carouge,2.0
+17,47.711995,8.638826,47.399167,8.520622,SpitÃ_ler Schaffhausen,Stadtspital Waid,3.0
+18,47.711995,8.638826,47.507967,8.727949,SpitÃ_ler Schaffhausen,Kantonsspital Winterthur,3.0
+19,47.263268,8.589378,47.376736,8.549199,See-Spital,UniversitÃ_tsspital ZÃ_rich,5.0
+20,47.263268,8.589378,47.366863,8.497572,See-Spital,Stadtspital Triemli,5.0
+21,47.200103999999996,7.539125,46.947455,7.4248009999999995,Solothurner SpitÃ_ler AG,Insel Gruppe AG (universitÃ_r),10.0
+22,47.200103999999996,7.539125,46.996590999999995,6.942991,Solothurner SpitÃ_ler AG,HÃÂ«pital NeuchÃÂ¢telois HNE,10.0
+23,47.322205,8.802781,47.351971999999996,8.576158,GZO Spital Wetzikon,Klinik Hirslanden AG,3.0
+24,46.801389,7.137283,46.193711,6.148855999999999,HFR - HÃÂ«pital fribourgeois,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,9.0
+25,46.801389,7.137283,46.2351,7.387328,HFR - HÃÂ«pital fribourgeois,HÃÂ«pital du Valais - Centre hospitalier du centre du Valais (CHCVs),9.0
+26,47.488122,7.731507000000001,47.454285999999996,8.278407000000001,Kantonsspital Baselland,Kantonsspital Baden AG,10.0
+27,47.488122,7.731507000000001,46.197616,9.026881,Kantonsspital Baselland,EOC Ente ospedaliero cantonale,10.0
+28,47.058078,8.298791,46.193711,6.148855999999999,Luzerner Kantonsspital,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,16.0
+29,47.058078,8.298791,46.197616,9.026881,Luzerner Kantonsspital,EOC Ente ospedaliero cantonale,16.0
+30,47.05812,8.326092,47.263268,8.589378,Hirslanden Klinik St. Anna AG,See-Spital,4.0
+31,47.05812,8.326092,46.197616,9.026881,Hirslanden Klinik St. Anna AG,EOC Ente ospedaliero cantonale,4.0
+32,47.549937,8.911494,47.376736,8.549199,Spital Thurgau AG KantonsspitÃ_ler Frauenfeld & MÃ_nsterlingen,UniversitÃ_tsspital ZÃ_rich,11.0
+33,47.549937,8.911494,46.197616,9.026881,Spital Thurgau AG KantonsspitÃ_ler Frauenfeld & MÃ_nsterlingen,EOC Ente ospedaliero cantonale,11.0
+34,47.351971999999996,8.576158,47.376736,8.549199,Klinik Hirslanden AG,UniversitÃ_tsspital ZÃ_rich,4.0
+35,46.86411,9.539952,46.197616,9.026881,Kantonsspital GraubÃ_nden,EOC Ente ospedaliero cantonale,7.0
+36,46.86411,9.539952,46.018508000000004,8.952941000000001,Kantonsspital GraubÃ_nden,Cardiocentro Ticino (CCT),5.0
+37,47.397628000000005,9.579355,46.197616,9.026881,Spitalregion Rheintal Werdenberg Sarganserland,EOC Ente ospedaliero cantonale,6.0
+38,47.397628000000005,9.579355,47.507967,8.727949,Spitalregion Rheintal Werdenberg Sarganserland,Kantonsspital Winterthur,6.0
+39,46.958811,7.427403,46.947645,7.426611,Lindenhof AG,Insel Gruppe AG (nicht-universitÃ_r),2.0
+40,46.958811,7.427403,46.288114,7.8841779999999995,Lindenhof AG,Spital Wallis - Spitalzentrum Oberwallis (SZO),8.0
+41,46.947645,7.426611,46.947455,7.4248009999999995,Insel Gruppe AG (nicht-universitÃ_r),Insel Gruppe AG (universitÃ_r),5.0
+42,46.95279,7.448237,46.947455,7.4248009999999995,Hirslanden Bern AG,Insel Gruppe AG (universitÃ_r),5.0
+43,47.147814000000004,7.244622,46.996590999999995,6.942991,Spitalzentrum Biel AG,HÃÂ«pital NeuchÃÂ¢telois HNE,4.0
+44,47.049215000000004,7.620941999999999,46.947455,7.4248009999999995,Regionalspital Emmental AG,Insel Gruppe AG (universitÃ_r),3.0
+45,47.049215000000004,7.620941999999999,46.958811,7.427403,Regionalspital Emmental AG,Lindenhof AG,3.0
+46,46.680833,7.842919,46.761733,7.632281,SpitÃ_ler Frutigen Meiringen Interlaken AG,Spital STS AG,2.0
+47,47.399167,8.520622,47.376736,8.549199,Stadtspital Waid,UniversitÃ_tsspital ZÃ_rich,2.0
+48,47.507967,8.727949,47.376736,8.549199,Kantonsspital Winterthur,UniversitÃ_tsspital ZÃ_rich,8.0
+49,47.34917,8.598519,47.351971999999996,8.576158,Spital Zollikerberg,Klinik Hirslanden AG,1.0
+50,47.566617,7.614161999999999,47.389185,8.059994999999999,St. Claraspital,Kantonsspital Aarau AG,5.0
+51,47.566617,7.614161999999999,47.391652,8.042692,St. Claraspital,Hirslanden Klinik Aarau,5.0
+52,47.394227,8.431632,47.366863,8.497572,Spital Limmattal,Stadtspital Triemli,4.0
+53,47.366863,8.497572,47.376736,8.549199,Stadtspital Triemli,UniversitÃ_tsspital ZÃ_rich,8.0
+54,46.761733,7.632281,46.288114,7.8841779999999995,Spital STS AG,Spital Wallis - Spitalzentrum Oberwallis (SZO),5.0
+55,47.43119,9.388303,46.197616,9.026881,Kantonsspital St. Gallen,EOC Ente ospedaliero cantonale,17.0
+56,47.43119,9.388303,46.005434,8.94011,Kantonsspital St. Gallen,Clinica Luganese Moncucco SA Sede Moncucco,17.0
+57,47.194648,8.518031,47.376736,8.549199,Zuger Kantonsspital AG,UniversitÃ_tsspital ZÃ_rich,3.0
+58,47.194648,8.518031,47.263268,8.589378,Zuger Kantonsspital AG,See-Spital,3.0
+59,47.194648,8.518031,47.277588,8.330606,Zuger Kantonsspital AG,Kreisspital fÃ_r das Freiamt,1.0
+60,47.216521,7.793825,47.049215000000004,7.620941999999999,SRO Spital Region Oberaargau AG,Regionalspital Emmental AG,2.0
+61,47.216521,7.793825,47.296098,7.9471240000000005,SRO Spital Region Oberaargau AG,Spital Zofingen AG,2.0
+62,46.228776,6.0674,46.193711,6.148855999999999,HÃÂ«pital de la Tour,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,3.0
+63,46.383439,6.227493,46.193711,6.148855999999999,Groupement Hospitalier de l'Ouest LÃÂ©manique (GHOL) SA,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,3.0
+64,46.383439,6.227493,46.228776,6.0674,Groupement Hospitalier de l'Ouest LÃÂ©manique (GHOL) SA,HÃÂ«pital de la Tour,3.0
+65,47.189221,8.858947,47.263268,8.589378,Spital Lachen,See-Spital,2.0
+66,47.189221,8.858947,47.322205,8.802781,Spital Lachen,GZO Spital Wetzikon,2.0
+67,47.372031,8.557767,47.376736,8.549199,UniversitÃ_ts-Kinderspital ZÃ_rich das Spital der Eleonorenstiftung,UniversitÃ_tsspital ZÃ_rich,1.0

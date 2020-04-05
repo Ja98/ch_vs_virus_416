@@ -1,7 +1,7 @@
 ,orig_lat,orig_lon,dest_lat,dest_lon,orig_hosp,dest_hosp,num_ven_tansp
-0,46.524749,6.639659,46.193711,6.148855999999999,CHUV Centre Hospitalier Universitaire Vaudois,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,4
-1,47.376736,8.549199,46.197616,9.026881,UniversitÃ_tsspital ZÃ_rich,EOC Ente ospedaliero cantonale,8
-2,47.058078,8.298791,46.197616,9.026881,Luzerner Kantonsspital,EOC Ente ospedaliero cantonale,6
-3,47.058078,8.298791,46.005434,8.94011,Luzerner Kantonsspital,Clinica Luganese Moncucco SA Sede Moncucco,3
-4,46.86411,9.539952,46.018508000000004,8.952941000000001,Kantonsspital GraubÃ_nden,Cardiocentro Ticino (CCT),1
-5,47.43119,9.388303,46.197616,9.026881,Kantonsspital St. Gallen,EOC Ente ospedaliero cantonale,6
+0,46.524749,6.639659,46.193711,6.148855999999999,CHUV Centre Hospitalier Universitaire Vaudois,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,4.0
+1,47.376736,8.549199,46.197616,9.026881,UniversitÃ_tsspital ZÃ_rich,EOC Ente ospedaliero cantonale,8.0
+2,47.058078,8.298791,46.197616,9.026881,Luzerner Kantonsspital,EOC Ente ospedaliero cantonale,6.0
+3,47.058078,8.298791,46.005434,8.94011,Luzerner Kantonsspital,Clinica Luganese Moncucco SA Sede Moncucco,3.0
+4,46.86411,9.539952,46.018508000000004,8.952941000000001,Kantonsspital GraubÃ_nden,Cardiocentro Ticino (CCT),1.0
+5,47.43119,9.388303,46.197616,9.026881,Kantonsspital St. Gallen,EOC Ente ospedaliero cantonale,6.0
