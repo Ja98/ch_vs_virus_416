@@ -1,0 +1,42 @@
+,orig_lat,orig_lon,dest_lat,dest_lon,orig_hosp,dest_hosp,num_ven_tansp
+0,47.561196,7.5815410000000005,46.193711,6.148855999999999,UniversitÃ_tsspital Basel,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,5
+1,47.561196,7.5815410000000005,46.197616,9.026881,UniversitÃ_tsspital Basel,EOC Ente ospedaliero cantonale,5
+2,46.524749,6.639659,46.193711,6.148855999999999,CHUV Centre Hospitalier Universitaire Vaudois,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,8
+3,46.524749,6.639659,46.197616,9.026881,CHUV Centre Hospitalier Universitaire Vaudois,EOC Ente ospedaliero cantonale,8
+4,46.524749,6.639659,46.288114,7.8841779999999995,CHUV Centre Hospitalier Universitaire Vaudois,Spital Wallis - Spitalzentrum Oberwallis (SZO),6
+5,46.524749,6.639659,46.2351,7.387328,CHUV Centre Hospitalier Universitaire Vaudois,HÃÂ«pital du Valais - Centre hospitalier du centre du Valais (CHCVs),8
+6,46.524749,6.639659,46.228776,6.0674,CHUV Centre Hospitalier Universitaire Vaudois,HÃÂ«pital de la Tour,6
+7,47.376736,8.549199,46.193711,6.148855999999999,UniversitÃ_tsspital ZÃ_rich,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,6
+8,47.376736,8.549199,46.197616,9.026881,UniversitÃ_tsspital ZÃ_rich,EOC Ente ospedaliero cantonale,8
+9,46.947455,7.4248009999999995,46.193711,6.148855999999999,Insel Gruppe AG (universitÃ_r),Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,7
+10,46.947455,7.4248009999999995,46.197616,9.026881,Insel Gruppe AG (universitÃ_r),EOC Ente ospedaliero cantonale,7
+11,46.947455,7.4248009999999995,46.2351,7.387328,Insel Gruppe AG (universitÃ_r),HÃÂ«pital du Valais - Centre hospitalier du centre du Valais (CHCVs),7
+12,47.454285999999996,8.278407000000001,46.197616,9.026881,Kantonsspital Baden AG,EOC Ente ospedaliero cantonale,2
+13,46.440108,6.908222,46.193711,6.148855999999999,HÃÂ«pital Riviera-Chablais Vaud-Valais,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,3
+14,46.77032,6.64755,46.193711,6.148855999999999,Etablissements Hospitaliers du Nord Vaudois (eHnv),Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,2
+15,47.263268,8.589378,46.197616,9.026881,See-Spital,EOC Ente ospedaliero cantonale,2
+16,47.200103999999996,7.539125,46.193711,6.148855999999999,Solothurner SpitÃ_ler AG,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,4
+17,47.200103999999996,7.539125,46.197616,9.026881,Solothurner SpitÃ_ler AG,EOC Ente ospedaliero cantonale,4
+18,46.801389,7.137283,46.193711,6.148855999999999,HFR - HÃÂ«pital fribourgeois,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,3
+19,47.488122,7.731507000000001,46.197616,9.026881,Kantonsspital Baselland,EOC Ente ospedaliero cantonale,4
+20,47.058078,8.298791,46.193711,6.148855999999999,Luzerner Kantonsspital,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,6
+21,47.058078,8.298791,46.197616,9.026881,Luzerner Kantonsspital,EOC Ente ospedaliero cantonale,6
+22,47.058078,8.298791,46.005434,8.94011,Luzerner Kantonsspital,Clinica Luganese Moncucco SA Sede Moncucco,6
+23,47.058078,8.298791,46.018508000000004,8.952941000000001,Luzerner Kantonsspital,Cardiocentro Ticino (CCT),3
+24,47.549937,8.911494,46.197616,9.026881,Spital Thurgau AG KantonsspitÃ_ler Frauenfeld & MÃ_nsterlingen,EOC Ente ospedaliero cantonale,4
+25,47.351971999999996,8.576158,46.197616,9.026881,Klinik Hirslanden AG,EOC Ente ospedaliero cantonale,3
+26,46.86411,9.539952,46.197616,9.026881,Kantonsspital GraubÃ_nden,EOC Ente ospedaliero cantonale,2
+27,47.397628000000005,9.579355,46.197616,9.026881,Spitalregion Rheintal Werdenberg Sarganserland,EOC Ente ospedaliero cantonale,2
+28,46.958811,7.427403,46.193711,6.148855999999999,Lindenhof AG,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,3
+29,46.958811,7.427403,46.197616,9.026881,Lindenhof AG,EOC Ente ospedaliero cantonale,3
+30,46.958811,7.427403,46.996590999999995,6.942991,Lindenhof AG,HÃÂ«pital NeuchÃÂ¢telois HNE,3
+31,47.147814000000004,7.244622,46.996590999999995,6.942991,Spitalzentrum Biel AG,HÃÂ«pital NeuchÃÂ¢telois HNE,2
+32,47.399167,8.520622,46.197616,9.026881,Stadtspital Waid,EOC Ente ospedaliero cantonale,2
+33,47.507967,8.727949,46.197616,9.026881,Kantonsspital Winterthur,EOC Ente ospedaliero cantonale,4
+34,47.366863,8.497572,46.197616,9.026881,Stadtspital Triemli,EOC Ente ospedaliero cantonale,3
+35,46.761733,7.632281,46.197616,9.026881,Spital STS AG,EOC Ente ospedaliero cantonale,2
+36,47.43119,9.388303,46.193711,6.148855999999999,Kantonsspital St. Gallen,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,7
+37,47.43119,9.388303,46.197616,9.026881,Kantonsspital St. Gallen,EOC Ente ospedaliero cantonale,7
+38,47.43119,9.388303,46.005434,8.94011,Kantonsspital St. Gallen,Clinica Luganese Moncucco SA Sede Moncucco,7
+39,46.383439,6.227493,46.193711,6.148855999999999,Groupement Hospitalier de l'Ouest LÃÂ©manique (GHOL) SA,Les HÃÂ«pitaux Universitaires de GenÃÂ¬ve HUG,1
+40,46.383439,6.227493,46.186931,6.142615,Groupement Hospitalier de l'Ouest LÃÂ©manique (GHOL) SA,Clinique de Carouge,1
